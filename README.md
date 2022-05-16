@@ -17,7 +17,7 @@
 <br />
 
 A **Computer Science Student** 🚀 from Kathmandu, Nepal.
-  <img align="right" alt="GIF" src="https://c.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" />
 
 **About Me!**
 
@@ -41,6 +41,9 @@ A **Computer Science Student** 🚀 from Kathmandu, Nepal.
 
 <code><img height="20" src="https://user-images.githubusercontent.com/84787320/166885300-0d8b9228-f5b3-4f72-bd6a-b231f7b85a3c.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/84787320/166885315-7156dc99-95e5-46cc-90b0-d96d594d21a9.png"></code>
+
+
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Prajwalad101&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Prajwal's GitHub Stats">
